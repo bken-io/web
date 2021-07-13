@@ -19,7 +19,7 @@
     "@emotion/styled": "^11.3.0",
     "@prisma/client": "^2.26.0",
     "autoprefixer": "^10.2.6",
-    "aws-sdk": "^2.939.0",
+    "aws-sdk": "^2.944.0",
     "axios": "^0.21.1",
     "dayjs": "^1.10.5",
     "detect-browser": "^5.2.0",
